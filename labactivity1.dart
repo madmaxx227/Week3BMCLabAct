@@ -4,7 +4,7 @@ void main() {
   bool run = true;
 
   while (run) {
-    print(' Menu ');
+    print( '\n--- MAIN DASHBOARD ---' );
     print('1.Budget tracker');
     print('2.Grade calculator');
     print('3.Exit');
